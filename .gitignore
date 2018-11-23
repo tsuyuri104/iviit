@@ -1,0 +1,17 @@
+
+.DS_Store
+.editorconfig
+.htaccess
+.travis.yml
+bin
+config
+logs
+plugins
+tests
+tmp
+vendor
+README.md
+phpunit.xml.dist
+index.php
+composer.lock
+composer.json
